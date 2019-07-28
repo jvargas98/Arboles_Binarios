@@ -1,0 +1,10 @@
+c:\users\alexb\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe.config
+c:\users\alexb\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe
+c:\users\alexb\source\repos\Arboles\Arboles\bin\Debug\Arboles.pdb
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.csproj.CoreCompileInputs.cache
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.exe
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.pdb
+c:\users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.Form1.resources
+C:\Users\alexb\source\repos\Arboles\Arboles\obj\Debug\Arboles.csprojAssemblyReference.cache
